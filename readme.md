@@ -95,6 +95,7 @@ python main.py -g <GAME> -s <SESSION_NAME> -a 'collect' -r <DEMO_DIR>
 ```
 * Demonstrations will be sotred in `./data/<GAME>/transitions/<DEMO_DIR>`
 * **Note:** One can also resume an initiated collection of demonstrations by using the same `<DEMO_DIR>` parameter
+* [Available Gravitar samples](https://drive.google.com/file/d/1seoeLgr1rvpgsx7zrEVzM6v90Wzcd_E5/view?usp=sharing)
 
 ### To play the game freely (for humans)
 ---
