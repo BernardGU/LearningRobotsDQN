@@ -1,0 +1,22 @@
+# Environment
+/env
+
+# Local files
+/data
+/results_analysis
+
+# IDE configuration files
+/.vscode
+**.code-workspace
+
+# Python cache
+**/__pycache__
+
+# Jupyter Notebooks
+**.ipynb
+
+# Output files
+**.out
+
+# Bash files
+**.sh
